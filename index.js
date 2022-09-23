@@ -100,7 +100,7 @@ let interpretes = [
     urlwiki: "https://es.wikipedia.org/wiki/Supertramp",
   },
   {
-    id: "3",
+    id: "4",
     tipo: "Grupo",
     nombre: "Electric Light Orchestra",
     imageng: "Ellaor/images/EloFoto.jpg",
@@ -136,7 +136,6 @@ app.get('/api/interpretes', (request, response) => {
 
 app.get('/api/interpretes/:id', (request, response) => {
   const id = request.params.id
-  console.log(request);
   const interprete = interpretes.find(interprete => interprete.id === id)
   //
   if (undefined !== interprete) {
@@ -144,6 +143,13 @@ app.get('/api/interpretes/:id', (request, response) => {
   } else {
     response.status(404).end()
   }
+})
+
+app.delete('/api/interpretes/:id', (request, response) => {
+  const id = (request.params.id)
+  interpretes = interpretes.filter(interprete => interprete.id !== id)
+
+  response.status(204).end()
 })
 
 const PORT = 3001
