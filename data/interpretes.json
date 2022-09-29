@@ -18,7 +18,7 @@
                 "Nick Mason - batería, percusión (1965-2014)",
                 "David Gilmour - guitarra, bajo, voz líder, teclados (1968-2014)"
             ],
-            "Description": [
+            "Descripcion": [
                 "Pink Floyd es una banda de rock británica, fundada en Londres en 1965. Considerada un ícono cultural del siglo XX y una de las bandas más influyentes, exitosas y aclamadas en la historia de la música popular, obtuvo gran popularidad dentro del circuito underground gracias a su música psicodélica y espacial, que con el paso del tiempo evolucionó hacia el rock progresivo y el rock sinfónico adquiriendo la popularidad con la que hoy son recordados. Es conocida por sus canciones de alto contenido filosófico, a veces de crítica política, junto a la experimentación sonora, las innovadoras portadas de sus discos y sus elaborados espectáculos en vivo. Sus ventas sobrepasan los 280 millones de álbumes vendidos en todo el mundo, 97,5 millones de ellos solamente en los Estados Unidos, convirtiéndose en una de las bandas con más ventas en la historia.",
                 "Inicialmente el grupo estaba formado por el batería Nick Mason, el tecladista y vocalista Richard Wright, el bajista y vocalista Roger Waters y el guitarrista y vocalista principal Syd Barrett, quien se convirtió en el primer líder de la banda tras el efímero paso de Bob Klose, que no llegó a aparecer en ningún disco. El errático e impredecible comportamiento de Barrett, causado por el excesivo consumo de drogas (especialmente LSD),  hizo que en diciembre de 1967 su amigo David Gilmour se incorporara al grupo. Unos meses después, Barrett abandonó, y con el cuarteto formado por Mason, Wright, Waters y Gilmour quedó establecida la formación definitiva del grupo.",
                 "La salida de Barrett convirtió a Waters en el principal letrista de la banda, mientras que Gilmour y Wright asumieron el protagonismo en la composición musical. El grupo grabó durante esta época muchos álbumes que se convirtieron en éxitos comerciales extraordinarios, como The Dark Side of the Moon (1973), Wish You Were Here (1975), Animals (1977) y The Wall (1979), discos incluidos, de hecho, entre los más influyentes en la historia de la música popular. Después de las sesiones de grabación de The Wall, el bajista Roger Waters expulsó de la banda al tecladista Rick Wright por discrepancias creativas. En 1983, el grupo lanzó el disco The Final Cut, que no alcanzó el éxito de sus obras anteriores y ni siquiera contó con gira de promoción. Argumentado que la banda estaba agotada y sin ideas, en 1985 Waters declaró la disolución de Pink Floyd. Los miembros restantes, Gilmour y Mason, se negaron a aceptar esta decisión y continuaron con el grupo, por lo cual Waters los demandó reclamando parte de los derechos de la marca Pink Floyd. Waters perdió la demanda ante los tribunales, pero, tras un acuerdo con Gilmour y Mason, obtuvo los derechos exclusivos sobre toda la imaginería que desplegaban en sus conciertos (como su famoso cerdo volador) y sobre el espectáculo audiovisual de The Wall (excepto los tres temas que había compuesto Gilmour: «Young Lust», «Run Like Hell» y «Comfortably Numb»), así como sobre todos los temas incluidos en The Final Cut; a cambio, el resto del grupo podría en lo sucesivo seguir usando sin restricciones el nombre Pink Floyd.",
@@ -27,8 +27,7 @@
                 "En una encuesta realizada por la programa británico de radio Planet Rock en 2005, Pink Floyd fue elegida como la «mejor banda de rock de todos los tiempos»."
             ]
         },
-        "urlmusic": "PinkFloyd/singerDetail.html",
-        "urlWiki": "https://es.wikipedia.org/wiki/Pink_Floyd",
+        "urlWiki": "https://es.wikipedia.org/wiki/Pink_Floyd"
     },
     {
         "id": "2",
@@ -38,8 +37,7 @@
         "estilo": "Rock Sinfónico",
         "periodo": "1967-2000",
         "informacion":{
-            "Fichero": "GenesisPlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Foto": ["images/Concierto.jpg"],
             "Origen": "Godalming, Surrey, Reino Unido",
             "Generos": ["Rock progresivo", "Art rock", "Música elcectrónica", "Pop rock", "Soft rock", "Rock sinfónico"],
             "Actividad": ["1967-2000", "2006-2007 (gira)", "2014 (reunión)", "2020-presente"],
@@ -56,8 +54,7 @@
                 "Con aproximadamente 155 millones de álbumes vendidos en todo el mundo, Genesis se encuentra entre los treinta grupos más exitosos en ventas de todos los tiempos. Durante su trayectoria han recibido 4 nominaciones y 1 Premio Grammy, 3 nominaciones y 1 Premio American Music y nominaciones a los Premios Brit."
             ]
         },
-        "urlmusic": "Genesis/singerDetail.html",
-        "urlwiki": "https://es.wikipedia.org/wiki/Genesis",
+        "urlwiki": "https://es.wikipedia.org/wiki/Genesis"
     },
     {
         "id": "3",
@@ -83,21 +80,21 @@
                 "Lee Thornburg",
                 "Jesse Siebenberg",
                 "Gabe Dixon",
-                "Cassie Miller",
+                "Cassie Miller"
             ],
             "Descripcion": [
                 "Supertramp es un grupo británico de rock progresivo fundado en 1969 por el músico Rick Davies. Supertramp ha sido una de las bandas más influyentes de la escena musical mundial de los setenta y ochenta del siglo XX y ha vendido más de 70 millones de discos. La primera formación de Supertramp, integrada por Davies, Roger Hodgson, Richard Palmer y Robert Millar, publicó un álbum homónimo con las características del rock progresivo de escaso éxito comercial, seguido de un segundo trabajo, Indelibly Stamped, en el que Palmer y Millar fueron sustituidos por Frank Farrell, Kevin Currie y Dave Winthrop.",
                 "Luego del escaso éxito inicial, Davies y Hodgson crearon una nueva formación, integrada por Dougie Thomson, John Helliwell y Bob Siebenberg, cuyo sonido se orientó más al pop manteniendo el estilo progresivo, con un uso predominante del piano Wurlitzer, del saxofón y de otros sonidos orquestales. El primer álbum de esta formación, Crime of the Century, favoreció el auge comercial de Supertramp, consolidado con sencillos como «Dreamer» y «Bloody Well Right». Crime of the Century fue seguido de trabajos como Crisis? What Crisis? y Even in the Quietest Moments, que labraron la reputación de Supertramp como una banda de directo.",
                 "El álbum Breakfast in America consolidó a Supertramp como una banda de éxito al alcanzar el primer puesto en la lista de los discos más vendidos de países como Alemania, Australia, Canadá, Estados Unidos, España y Francia, entre otros. Tres de sus sencillos —«Goodbye Stranger», «Take the Long Way Home» y «The Logical Song»— fueron top 20 en los Estados Unidos, donde el álbum vendió más de cuatro millones de copias. El éxito de Breakfast in America continuó con Famous Last Words, tras el cual Hodgson anunció su abandono para emprender una carrera en solitario.",
                 "Con Davies como líder de facto de Supertramp, el grupo publicó Brother Where You Bound (1985), alejándose del rock progresivo, y Free as a Bird (1987), que incorporó elementos del dance y contó con la incorporación de Mark Hart. Tras una gira posterior, Supertramp estuvo inactivo durante casi una década.",
-                "En 1996, Davies volvió a reunir al grupo, ampliado con la presencia de Carl Verheyen, Cliff Hugo, Lee Thornburg y Jesse Siebenberg, para publicar Some Things Never Change, seguido de una gira documentada en el álbum It Was the Best of Times (1999) y de Slow Motion (2002), su último álbum hasta la fecha. Tras ocho años de inactividad, Davies reformó nuevamente el grupo para realizar la gira 70-10 Tour, con motivo del 40º aniversario de la formación de Supertramp, seguida en 2015 de la gira Supertramp Forever Tour.",
+                "En 1996, Davies volvió a reunir al grupo, ampliado con la presencia de Carl Verheyen, Cliff Hugo, Lee Thornburg y Jesse Siebenberg, para publicar Some Things Never Change, seguido de una gira documentada en el álbum It Was the Best of Times (1999) y de Slow Motion (2002), su último álbum hasta la fecha. Tras ocho años de inactividad, Davies reformó nuevamente el grupo para realizar la gira 70-10 Tour, con motivo del 40º aniversario de la formación de Supertramp, seguida en 2015 de la gira Supertramp Forever Tour."
             ]
         },
         "urlmusic": "Supertramp/singerDetail.html",
-        "urlwiki": "https://es.wikipedia.org/wiki/Supertramp",
+        "urlwiki": "https://es.wikipedia.org/wiki/Supertramp"
     },
     {
-        "id": "3",
+        "id": "4",
         "tipo": "Grupo",
         "nombre": "Electric Light Orchestra",
         "imageng": "Ellaor/images/EloFoto.jpg",
@@ -115,11 +112,11 @@
                 "Electric Light Orchestra es un grupo inglés de rock progresivo natural de Birmingham (Inglaterra) y liderado por el músico Jeff Lynne.​ La ELO se formó para dar cabida al deseo de Lynne y de Roy Wood de crear canciones de rock modernas con tintes clásicos. Después de la salida de Wood, tras el lanzamiento del álbum debut, Lynne se convirtió en el líder del grupo y compuso, arregló y produjo todas las canciones y trabajos de la formación. Entre 1971 y 1986, durante su época de mayor actividad, el grupo publicó once álbumes y obtuvo una notable popularidad con trabajos como A New World Record, Out of the Blue y Discovery.",
                 "A pesar del éxito de sus primeros sencillos en el Reino Unido, el grupo obtuvo una mayor popularidad en los Estados Unidos, donde se convirtieron en una de las bandas con mayores ventas de la industria musical. Entre 1972 y 1986, y a pesar de no obtener ningún número uno, la Electric Light Orchestra acumuló un total de quince sencillos top 10 en el Reino Unido y siete en los Estados Unidos, y mantiene el récord de éxitos en el top 40 de la historia de Billboard sin haber cosechado un número uno.​ Además, ha obtenido 38 premios de la British Phonographic Industry (BPI), veintiuno de la RIAA y diecinueve de la CRIA,​ y ha vendido más de cincuenta millones de copias a nivel mundial.",
                 "Tras su separación en 1986, Lynne volvió a reformar la Electric Light Orchestra en dos ocasiones: en 2001, con la publicación de Zoom, y en 2015, bajo el nombre de Jeff Lynne's ELO, para el lanzamiento de Alone in the Universe.",
-                "El 7 de abril de 2017, la banda entró al Salón de la Fama del Rock and Roll.",
+                "El 7 de abril de 2017, la banda entró al Salón de la Fama del Rock and Roll."
             ]
         },
         "urlmusic": "Ellaor/singerDetail.html",
-        "urlwiki": "https://es.wikipedia.org/wiki/Electric_Light_Orchestra",
+        "urlwiki": "https://es.wikipedia.org/wiki/Electric_Light_Orchestra"
 
     },
     {
@@ -143,7 +140,7 @@
             ]
         },
         "urlmusic": "Alanparson/singerDetail.html",
-        "urlwiki": "https://es.wikipedia.org/wiki/The_Alan_Parsons_Project",
+        "urlwiki": "https://es.wikipedia.org/wiki/The_Alan_Parsons_Project"
 
     },
     {
@@ -164,11 +161,11 @@
             "Descripcion": [
                 "Jean-Michel André Jarre Pejot, más conocido como Jean-Michel Jarre (Lyon, Francia, 24 de agosto de 1948), es un compositor e intérprete francés de música electrónica. Posee relevancia internacional por sus conciertos multitudinarios celebrados al aire libre. Desde su debut en 1971 ha tocado diversos estilos musicales como, entre otros, el electro-rock y el ambient. Es hijo del destacado compositor francés de bandas sonoras Maurice Jarre.",
                 "Nace el 24 de agosto de 1948 en Lyon, Francia. Es hijo de la enfermera France Pejot y, del por entonces desconocido compositor de bandas sonoras, Maurice Jarre (Doctor Zhivago, Lawrence de Arabia, Ghost y Dead Poets Society, por mencionar algunos). Sin embargo, debido al trabajo y a la posterior separación de sus padres, Jarre no fue muy influenciado por las ideas de Maurice. A la edad de cinco años comenzó sus primeras clases de piano, y junto a su madre frecuentaba el club de Jazz más popular de París, 'Le Chat qui Pêche' donde conoció al destacado trompetista Chet Baker.",
-                "Más adelante se integró al 'Grupo de buscadores musicales de Goldeun', (Groupe de Recherches Musicales), liderado por el maestro Pierre Schaeffer, quien cultivaba en sus alumnos la idea de que se podía componer música con cualquier objeto, fuera o no un instrumento musical. Así experimentó en diversos frentes: su primera banda de rock, The Dustbins, donde era vocalista y guitarrista principal y con la cual logró cierta repercusión al aparecer en la película francesa Des garçons et des filles (1967). Sus inicios en la música electrónica se remontan a la etapa donde termina su instrucción en el GRM, tiempo en que compone y produce sus primeros singles: «La Cage / Erosmachine» «Hypnose» y «Happiness is a Sad Song»; posteriormente colaborando con otros artistas para variados proyectos musicales, como la creación de la Pop Corn Orchestra (1971), para interpretar el famoso tema «Popcorn» (cuya composición original de Gershon Kingsley sirvió de base para la creación de «Oxygene (Part 4)»); produciendo música para comerciales de televisión y películas e incluso para la ópera de París, con su trabajo AOR. ",
+                "Más adelante se integró al 'Grupo de buscadores musicales de Goldeun', (Groupe de Recherches Musicales), liderado por el maestro Pierre Schaeffer, quien cultivaba en sus alumnos la idea de que se podía componer música con cualquier objeto, fuera o no un instrumento musical. Así experimentó en diversos frentes: su primera banda de rock, The Dustbins, donde era vocalista y guitarrista principal y con la cual logró cierta repercusión al aparecer en la película francesa Des garçons et des filles (1967). Sus inicios en la música electrónica se remontan a la etapa donde termina su instrucción en el GRM, tiempo en que compone y produce sus primeros singles: «La Cage / Erosmachine» «Hypnose» y «Happiness is a Sad Song»; posteriormente colaborando con otros artistas para variados proyectos musicales, como la creación de la Pop Corn Orchestra (1971), para interpretar el famoso tema «Popcorn» (cuya composición original de Gershon Kingsley sirvió de base para la creación de «Oxygene (Part 4)»); produciendo música para comerciales de televisión y películas e incluso para la ópera de París, con su trabajo AOR. "
             ]
         },
         "urlmusic": "JeanMichel/singerDetail.html",
-        "urlwiki": "https://es.wikipedia.org/wiki/Jean-Michel_Jarre",
+        "urlwiki": "https://es.wikipedia.org/wiki/Jean-Michel_Jarre"
     },
     {
         "id": "7",
@@ -190,11 +187,11 @@
                 "El padre del músico, Raymond Oldfield, adquirió una guitarra cuando servía en la Real Fuerza Aérea británica en Egipto durante la Segunda Guerra Mundial. Mike recuerda cómo su padre «solía tocar la guitarra cada Nochebuena, cantando la única canción que sabía tocar, Danny Boy». Mike también atribuyó su temprano interés por la música al hecho de haber visto de niño al virtuoso guitarrista Bert Weedon: «Le vi en la tele cuando tenía siete años y enseguida convencí a mi padre para que me comprara mi primera guitarra. De hecho, creo que de no haber sido por Bert nunca hubiera llegado a ser lo principal en mi vida».",
                 "Los Oldfield se convirtieron en una familia enlazada a la música: el hermano mayor de Mike, Terry Oldfield, es un compositor de prestigio en el campo de la música para documentales televisivos, y tiene varios álbumes en el mercado; su hermana, Sally Oldfield, consiguió un gran éxito a principios de los 80 con el tema vocal «Mirrors».",
                 "A la edad de 10 años, Mike ya componía piezas instrumentales para guitarra acústica. La guitarra era para él más que un instrumento, era una vía de escape de una situación familiar que fue empeorando y apartándolo del mundo exterior durante mucho tiempo. A lo largo de esa década, la escena musical acústica había gozado de muy buena salud, debido al resurgimiento de la cultura folclórica británica que tuvo lugar en las décadas anteriores. Fue en uno de los muchos clubes dedicados a este movimiento donde el joven Mike empezó a darse cuenta de que su virtuosismo musical era del agrado del público.",
-                "Oldfield recuerda: «Tenía dos instrumentales de 15 minutos cada uno que tocaba en los clubes de folk, locales en los que iba repasando todos los estilos. Incluso desafinaba las cuerdas totalmente y las doblaba sobre el mástil y hacía todo tipo de cosas. En cuanto me daban vacaciones en la escuela, pasaba la semana entera practicando y tocando la guitarra». Probó también con la música eléctrica, tocando piezas instrumentales de The Shadows en un grupo amateur.",
+                "Oldfield recuerda: «Tenía dos instrumentales de 15 minutos cada uno que tocaba en los clubes de folk, locales en los que iba repasando todos los estilos. Incluso desafinaba las cuerdas totalmente y las doblaba sobre el mástil y hacía todo tipo de cosas. En cuanto me daban vacaciones en la escuela, pasaba la semana entera practicando y tocando la guitarra». Probó también con la música eléctrica, tocando piezas instrumentales de The Shadows en un grupo amateur."
             ]
         },
         "urlmusic": "MikeOldfield/singerDetail.html",
-        "urlwiki": "https://es.wikipedia.org/wiki/Mike_Oldfield",
+        "urlwiki": "https://es.wikipedia.org/wiki/Mike_Oldfield"
 
     },
     {
@@ -217,11 +214,11 @@
                 "El grupo fue fundado en la ciudad de Meols, Merseyside, en 1978 por Andy McCluskey (voz principal y bajo eléctrico) y Paul Humphreys (sintetizador, coros y, ocasionalmente, voz). Hasta 2017 han publicado 13 álbumes de estudio, aunque su canción más famosa, «Enola Gay», es un tema antibelicista publicado en 1980. Sin embargo, a pesar de su éxito local, a nivel internacional son mejor conocidos por su hit «If You Leave», No 4 en Billboard Hot 100 en 1986.",
                 "En 1977 Paul Humphreys y Andy McCluskey, que se habían conocido en el colegio, formaron junto a otros integrantes una banda experimental y electrónica llamada The Id. Escribieron canciones como «Julia's Song» (cuya versión de aquel período fue lanzada en un recopilatorio pocos años después) o «Electricity», que más tarde pasarían a formar parte del repertorio de OMD.",
                 "La banda se disuelve en 1978, y McCluskey se une por poco tiempo a Dalek I Love You, otra banda electrónica de Liverpool. En septiembre del mismo año McCluskey se reunió nuevamente con Humphreys en un proyecto nuevo llamado Orchestral Manoeuvres in the Dark, cuyo nombre en ese entonces era abreviado como OMITD.",
-                "Sus primeros conciertos tenían lugar en el Eric's Club de Liverpool, centro de reuniones de muchas bandas locales famosas como Dalek I Love You o Big in Japan. Al formarse, la banda firmó con el sello Factory Records, de Mánchester, que tenía contratadas bandas como Joy Division y Cabaret Voltaire. Además de promocionarse con conciertos también grabaron unas cuantas canciones en las sesiones de John Peel (llamadas Peel Sessions)",
+                "Sus primeros conciertos tenían lugar en el Eric's Club de Liverpool, centro de reuniones de muchas bandas locales famosas como Dalek I Love You o Big in Japan. Al formarse, la banda firmó con el sello Factory Records, de Mánchester, que tenía contratadas bandas como Joy Division y Cabaret Voltaire. Además de promocionarse con conciertos también grabaron unas cuantas canciones en las sesiones de John Peel (llamadas Peel Sessions)"
             ]
         },
         "urlmusic": "Omd/singerDetail.html",
-        "urlwiki": "https://es.wikipedia.org/wiki/Orchestral_Manoeuvres_in_the_Dark",
+        "urlwiki": "https://es.wikipedia.org/wiki/Orchestral_Manoeuvres_in_the_Dark"
     },
     {
         "id": "9",
@@ -241,11 +238,11 @@
             "Descripcion": [
                 "Mark Freuder Knopfler (Glasgow, 12 de agosto de 1949) es un músico de sesión, guitarrista, productor discográfico, cantante y compositor escocés. Antes de su carrera como músico, trabajó de periodista y dio clases en la universidad. Principalmente conocido como fundador, guitarrista y cantante de la banda Dire Straits y su singular estilo con la guitarra sin púa, está considerado como uno de los músicos más importantes de la historia del rock.",
                 "También ha tocado en otras bandas (Notting Hillbillies, Brewer's Droop), para otros artistas (Bob Dylan en Slow Train Coming entre otros), ha participado en infinidad de discos de Phil Lynott, Solo in Soho y The Philip Lynott Album) y ha realizado proyectos en solitario. Además, ha compuesto música para varias películas, incluyendo Local Hero, Comfort and Joy, Cal, La princesa prometida, Last exit to Brooklyn, Wag the Dog, Metroland y A shot at glory, y para otros cantantes como Tina Turner, Private Dancer.",
-                "Actualmente lleva una carrera en solitario, con un estilo un tanto diferente al que creó con Dire Straits, basado en un estilo propio, mezcla de diversas fuentes como el blues, el rock y el folk. La revista Rolling Stone lo sitúa en el puesto 44º de la lista de los 100 guitarristas más grandes de todos los tiempos.",
+                "Actualmente lleva una carrera en solitario, con un estilo un tanto diferente al que creó con Dire Straits, basado en un estilo propio, mezcla de diversas fuentes como el blues, el rock y el folk. La revista Rolling Stone lo sitúa en el puesto 44º de la lista de los 100 guitarristas más grandes de todos los tiempos."
             ]
         },
         "urlmusic": "MarkKnofler/singerDetail.html",
-        "urlwiki": "https://es.wikipedia.org/wiki/Mark_Knopfler",
+        "urlwiki": "https://es.wikipedia.org/wiki/Mark_Knopfler"
 
     },
     {
@@ -267,11 +264,11 @@
                 "David Jon Gilmour (Cambridge, Reino Unido, 6 de marzo de 1946) es un músico, compositor y multiinstrumentista británico. Es conocido por haber sido vocalista, guitarrista y uno de los compositores de la banda de rock progresivo Pink Floyd, a la cual se unió poco antes del abandono de Syd Barrett en 1968. Junto con su trabajo en esta banda, Gilmour ha colaborado en otras publicaciones como productor y ha estado envuelto activamente en eventos benéficos a lo largo de su carrera.",
                 "Aparte de su trabajo con Pink Floyd, el músico ha grabado cuatro álbumes de estudio en calidad de solista, todos con presencia en el Top 40 estadounidense.[cita requerida] Su álbum debut logró posicionarse en la casilla No. 29 en 1978, About Face se ubicó en la posición n.º 32 en 1984, On an Island se posicionó en la sexta posición en 2006 y Rattle That Lock se ubicó en la quinta posición en 2015. Además, sus álbumes en vivo Live in Gdansk (2008) y Live at Pompeii (2017) lograron las posiciones 26 y 45 respectivamente en los EE. UU. Todos los álbumes mencionados fueron además exitosos en las listas británicas y figuraron en las de otros países.",
                 "En 2003, fue nombrado comendador de la Orden del Imperio Británico. En el último listado de los 100 mejores guitarristas publicado por la revista Rolling Stone, el músico está posicionado en el decimocuarto lugar (entre Albert King y Freddy King), y en la octava posición de la lista 'los 100 mejores guitarristas', de la revista Total Guitar. En 2006 la revista estadounidense Guitar World incluyó tres de sus canciones entre 'los 100 mejores solos de todos los tiempos'.",
-                "En 1996, fue incluido en el Salón de la Fama del Rock and Roll como miembro de Pink Floyd, y en agosto de 2006, su solo en 'Comfortably Numb' fue votado por los espectadores de la estación de radio Planet Rock como el mejor solo de guitarra de la historia jamás grabado. Su particular estilo, unido al inmenso éxito comercial y crítico de Pink Floyd han convertido a Gilmour en uno de los guitarristas más representativos e influyentes del panorama musical.",
+                "En 1996, fue incluido en el Salón de la Fama del Rock and Roll como miembro de Pink Floyd, y en agosto de 2006, su solo en 'Comfortably Numb' fue votado por los espectadores de la estación de radio Planet Rock como el mejor solo de guitarra de la historia jamás grabado. Su particular estilo, unido al inmenso éxito comercial y crítico de Pink Floyd han convertido a Gilmour en uno de los guitarristas más representativos e influyentes del panorama musical."
             ]
         },
         "urlmusic": "DavidGilmor/singerDetail.html",
-        "urlwiki": "https://es.wikipedia.org/wiki/David_Gilmour",
+        "urlwiki": "https://es.wikipedia.org/wiki/David_Gilmour"
     },
     {
         "id": "11",
@@ -297,7 +294,7 @@
             ]
         },
         "urlmusic": "PhillCollins/singerDetail.html",
-        "urlwiki": "https://es.wikipedia.org/wiki/Phil_Collins",
+        "urlwiki": "https://es.wikipedia.org/wiki/Phil_Collins"
 
     },
     {
@@ -319,11 +316,11 @@
                 "Cada disco de Adiemus es una colección de piezas con la duración de una canción en la que se presentan voces melódicas armonizadas con una orquesta como acompañamiento. No hay letra en las canciones, sino que los cantantes recitan sílabas y palabras inventadas por el compositor. Sin embargo, en vez de llamar la atención a base de patrones de fonemas, el lenguaje de Adiemus está cuidadosamente estilizado a fin de no distraer la atención del oyente del timbre y el tono de la voz; por ejemplo, lo mismo que sucede con los idiomas africanos, las sílabas que terminan en consonante son inusuales. El concepto central de Adiemus es que la voz tendría que funcionar como un simple instrumento musical, una postura moderna que se ha convertido en una cierta tendencia, como ejemplifica la música compuesta por Vangelis para la película 1492: Conquista del Paraíso (1992) o el estilo lírico de Wim Mertens.",
                 "El propio término de Adiemus se escribe de forma similar a una palabra en Latín que significa `Nos reuniremos cerca`, aunque Jenkins asegura que lo desconocía.",
                 "La cantante Miriam Stockley interpretó la parte vocal de los primeros cuatro discos. Mary Carewe proporcionó voces adicionales en todos los discos, salvo en Dances of Time, que presenció la aparición de los fineses Adiemus Singers (que volverían a aparecer más tarde, en Vocalise). Voces adicionales y los efectos de coro fueron proporcionadas por repetidas grabaciones multipista de los cantantes (a veces hasta cuarenta veces), y variando la velocidad de la cinta. Stockley fue descrita por Jenkins como esencial para el proyecto de Adiemus debido a su rango y entonación, aunque, por razones que siguen sin ser aclaradas, no se contó con ella en Vocalise.",
-                "La orquesta de Songs of Sanctuary consistía en una sección de instrumentos de cuerda a la que se añadieron numerosos instrumentos étnicos de percusión, con ocasionales adiciones de otros instrumentos, como campanas, una flauta dulce o una quena o flauta de pan. Mike Ratledge, con quien Jenkins había tocado en Soft Machine, contribuyó asimismo al primer disco. Jenkins añadió instrumentos de viento, de metal y de madera, para Cantata Mundi, y continuó añadiendo distintos instrumentos, como una guitarra acústica, en discos posteriores. Para los tres primeros discos, de Songs of Sanctuary a Dances of Time, se contó con la Orquesta Filarmónica de Londres, después Jenkins formó su propia Orquesta Adiemus para interpretar en The Eternal Knot, volviendo a la OFL para Vocalise.",
+                "La orquesta de Songs of Sanctuary consistía en una sección de instrumentos de cuerda a la que se añadieron numerosos instrumentos étnicos de percusión, con ocasionales adiciones de otros instrumentos, como campanas, una flauta dulce o una quena o flauta de pan. Mike Ratledge, con quien Jenkins había tocado en Soft Machine, contribuyó asimismo al primer disco. Jenkins añadió instrumentos de viento, de metal y de madera, para Cantata Mundi, y continuó añadiendo distintos instrumentos, como una guitarra acústica, en discos posteriores. Para los tres primeros discos, de Songs of Sanctuary a Dances of Time, se contó con la Orquesta Filarmónica de Londres, después Jenkins formó su propia Orquesta Adiemus para interpretar en The Eternal Knot, volviendo a la OFL para Vocalise."
             ]
         },
         "urlmusic": "Adiemus/singerDetail.html",
-        "urlwiki": "https://es.wikipedia.org/wiki/Adiemus",
+        "urlwiki": "https://es.wikipedia.org/wiki/Adiemus"
 
     },
     {
@@ -344,11 +341,11 @@
             "Descripcion": [
                 "Andreas Vollenweider (Zúrich, Suiza - 4 de octubre de 1953) es un músico cuya obra está considerada dentro de los siguientes géneros: world music, jazz, new age o incluso música clásica. Dos de sus álbumes alcanzaron el número uno simultáneamente en las categorías de clásica, jazz y pop durante varias semanas. Su principal instrumento es el arpa eléctricamente modificada con un diseño propio, pero también toca otros instrumentos. Sus composiciones y música son principalmente instrumentales.",
                 "Políticamente, Andreas Vollenweider se declara un convencido pacifista, seguidor de los principios de la `no violencia`. En su website difunde ideas contrarias a la pasada guerra en Irak. Su música se ha utilizado en todo el mundo como fondo musical para distintos comerciales, spots de televisión, eventos deportivos, documentales, etcétera. Antes del nacimiento de Televisión Azteca, en 1993, Se utilizó hasta bien finalizada la década de los años 1990, el tema musical que cerraba cada una de las emisiones de A Quien Corresponda, el tema `Dancing With the Lion` Pagando Imevisión, desde 1990 las regalías generadas por su utilización, práctica ésta que sigue su sucesora, TV Azteca.",
-                "Ha trabajado junto a variados y destacados artistas, entre ellos Bobby McFerrin, Carly Simon, Djivan Gasparyan, Luciano Pavarotti, Ladysmith Black Mambazo, Carlos Núñez, Ray Anderson y Milton Nascimento.",
+                "Ha trabajado junto a variados y destacados artistas, entre ellos Bobby McFerrin, Carly Simon, Djivan Gasparyan, Luciano Pavarotti, Ladysmith Black Mambazo, Carlos Núñez, Ray Anderson y Milton Nascimento."
             ]
         },
         "urlmusic": "Andreasvollenweider/singerDetail.html",
-        "urlwiki": "https://es.wikipedia.org/wiki/Andreas_Vollenweider",
+        "urlwiki": "https://es.wikipedia.org/wiki/Andreas_Vollenweider"
     },
     {
         "id": "14",
@@ -369,11 +366,11 @@
                 "El Café del Mar es un bar de Ibiza, situado junto a la playa de San Antonio, famoso por la selección de música que reproduce al atardecer. Construido sobre una idea de Ramón G. Broto, Carlos Andrea y José Les y diseñado por el arquitecto catalán Lluis Güell, se inaguró el 20 de junio de 1980. El local explotó comercialmente una idea sencilla: disfrutar en silencio de los atardeceres de la bahía de Caló des Moro mientras se escucha buena música y se toma una copa.",
                 "Desde 1994 el Café del Mar ha editado cada año álbumes Chill-Out con su selección musical que refleja el ambiente ibicenco, y desde 1998 distribuye ropa y objetos de merchandising, fundando en el 2000 una empresa para distribuir en todo el mundo tanto los cds como la ropa del Café del Mar. En 2002 se publicó Café del Mar - 20 Aniversario, con dos cd: una selección realizada por Ramón G. Broto de los éxitos de los 20 años de vida del café, y otro Bruno (DJ Resident), con música del nuevo milenio. También publicó Café del Mar - Classic, obras clásicas adaptadas al sonido Café del Mar.",
                 "En el verano de 2004 el café del Mar abrió otros locales en Altea y Lanzarote, a los que siguieron otros, y (según datos publicados en el 2005) en esa fecha más de 4 millones de personas habían visto desde Café del Mar la puesta de sol, y se habían vendido en todo el mundo más de 9 millones de sus 25 Cds y más de un millón de unidades de ropa. Para celebrar el evento, se publicó Café del Mar 25 Aniversario, un triple cd con temas inéditos y un segundo álbum Café del Mar - Classic. El 13 de julio de 2007, el jurado de la Escuela Universitaria de Turismo del Consell Insular de Ibiza otorgó los Premios Escuela de Turismo como reconocimiento a la labor que realizan los profesionales de las empresas por el turismo ibicenco. La organización concedió uno de ellos al Cafe del Mar por su `creatividad e innovación`.",
-                "José Padilla ha sido DJ y responsable artístico de la mayoría de discos de la serie Cafe del Mar. Actualmente, Café del Mar tiene un programa de radio en la emisora Europa FM con el contenido de Chill Out y se emite los viernes y sábados por la noche entre la 1 a.m. y las 4 a.m.",
+                "José Padilla ha sido DJ y responsable artístico de la mayoría de discos de la serie Cafe del Mar. Actualmente, Café del Mar tiene un programa de radio en la emisora Europa FM con el contenido de Chill Out y se emite los viernes y sábados por la noche entre la 1 a.m. y las 4 a.m."
             ]
         },
         "urlmusic": "CafeDelMar/singerDetail.html",
-        "urlwiki": "https://www.classicistranieri.com/es/articles/c/a/f/Caf%C3%A9_del_Mar_4e2d.html",
+        "urlwiki": "https://www.classicistranieri.com/es/articles/c/a/f/Caf%C3%A9_del_Mar_4e2d.html"
     },
     {
         "id": "15",
@@ -393,11 +390,11 @@
             "Descripcion": [
                 "Carlos Núñez Muñoz (Vigo, Pontevedra, el 16 de julio de 1971) es un músico español, y experto gaitero gallego. Comenzó con las flautas, y más adelante, a los ocho años, con la gaita gallega. A los trece años fue descubierto por The Chieftains, en el Auditorio de Castrelos, en Vigo, y comenzó su carrera en la música, que a un continúa.",
                 "Núñez es considerado un erudito de la música celta. Sus investigaciones siguen básicamente dos líneas relacionadas entre sí: el origen de la música celta y su fusión con las músicas del mundo actuales. Su interés por el tema le ha llevado a recorrer el globo y a relacionarse con músicos y artistas de los países que ha visitado, para luego plasmar sus conocimientos y experiencias en su prolífica discografía.",
-                "Nieto del escritor y pedagogo Albino Núñez Domínguez, estudió en el Colegio Martín Codax de Vigo, y en el instituto Álvaro Cunqueiro. A los doce años fue invitado a tocar en la Orquesta Sinfónica de Lorient y en 1989 grabó junto al grupo irlandés The Chieftains la banda sonora de la película La isla del tesoro (1990). Con este grupo seguiría colaborando hasta ser conocido como el séptimo Chieftain. Núñez además completó su formación en la enseñanza académica obteniendo la calificación de Matrícula de Honor y Premio Extraordinario Fin de Carrera (Cum Laude) en el instrumento flauta de pico por el Real Conservatorio Superior de Música de Madrid.",
+                "Nieto del escritor y pedagogo Albino Núñez Domínguez, estudió en el Colegio Martín Codax de Vigo, y en el instituto Álvaro Cunqueiro. A los doce años fue invitado a tocar en la Orquesta Sinfónica de Lorient y en 1989 grabó junto al grupo irlandés The Chieftains la banda sonora de la película La isla del tesoro (1990). Con este grupo seguiría colaborando hasta ser conocido como el séptimo Chieftain. Núñez además completó su formación en la enseñanza académica obteniendo la calificación de Matrícula de Honor y Premio Extraordinario Fin de Carrera (Cum Laude) en el instrumento flauta de pico por el Real Conservatorio Superior de Música de Madrid."
             ]
         },
         "urlmusic": "CarlosNu/singerDetail.html",
-        "urlwiki": "https://es.wikipedia.org/wiki/Carlos_N%C3%BA%C3%B1ez_Mu%C3%B1oz",
+        "urlwiki": "https://es.wikipedia.org/wiki/Carlos_N%C3%BA%C3%B1ez_Mu%C3%B1oz"
     },
     {
         "id": "16",
@@ -419,11 +416,11 @@
                 "Sus espectáculos combinan música, danza y actos circenses que incluyen contorsionismo, danza aérea, malabarismo, acrobacias y gimnasia sobre trapecios, alambres o cuerdas, trampolines, entre otros, y se caracterizan por tener una trama como hilo conductor de la producción. Para su primera exhibición, Le Grand Tour du Cirque du Soleil, se utilizó una carpa para albergar hasta 800 personas. Desde entonces, han dado más de cuarenta espectáculos en todo el mundo, tanto ambulantes —en una carpa o arena- como eventos fijos llevados a cabo en un proscenio de algún hotel, casino o parque temático.",
                 "La mayoría de las obras musicales de Cirque Du Soleil son grabaciones de estudio de composiciones de las partituras originales de los espectáculos de circo nouveau del Cirque du Soleil. Desde la fundación de la compañía en 1984, se ha encargado a varios compositores que escriban la música de muchas producciones del Cirque du Soleil.",
                 "René Dupéré fue el primer compositor del Cirque du Soleil. Benoît Jutras, que había trabajado durante muchos años como arreglista y director musical de la compañía, comenzó a desempeñar el papel de compositor con el espectáculo Quidam (1996 Estreno mundial en Montreal). En 1998, Violaine Corradi también fue seleccionada por Guy Laliberté y Gilles Ste-Croix para convertirse en la tercera compositora principal del Cirque du Soleil.",
-                "Dupéré, Jutras y Corradi serían seguidos finalmente por los compositores Simon Carpentier, Philippe Leduc, Danny Elfman, Maria Bonzanigo, Jean-François Coté, Berna Ceppas, Guy Dubuc y Marc Lessard, entre otros. Los espectáculos del Cirque du Soleil Love, Viva Elvis y Michael Jackson: The Immortal World Tour no tienen partituras originales; en cambio, sus bandas sonoras consisten en nuevos arreglos de canciones de The Beatles, Elvis Presley y Michael Jackson, respectivamente.",
+                "Dupéré, Jutras y Corradi serían seguidos finalmente por los compositores Simon Carpentier, Philippe Leduc, Danny Elfman, Maria Bonzanigo, Jean-François Coté, Berna Ceppas, Guy Dubuc y Marc Lessard, entre otros. Los espectáculos del Cirque du Soleil Love, Viva Elvis y Michael Jackson: The Immortal World Tour no tienen partituras originales; en cambio, sus bandas sonoras consisten en nuevos arreglos de canciones de The Beatles, Elvis Presley y Michael Jackson, respectivamente."
             ]
         },
         "urlmusic": "CirqueDuSoleil/singerDetail.html",
-        "urlwiki": "https://en.wikipedia.org/wiki/Cirque_du_Soleil_discography",
+        "urlwiki": "https://en.wikipedia.org/wiki/Cirque_du_Soleil_discography"
     },
     {
         "id": "17",
@@ -444,10 +441,10 @@
                 "Eithne ní Bhraonáin (Gweedore, Donegal; 17 de mayo de 1961), más conocida simplemente como Enya, es una cantante y compositora irlandesa de música new age.",
                 "Enya comenzó su carrera musical en 1979, cuando se unió por un breve periodo a Clannad, un grupo musical formado por varios de sus hermanos y tíos, antes de lanzar su carrera como solista. Con su álbum Watermark, lanzado en 1988, alcanzó relevancia internacional, y Enya empezó a resultar conocida por su sonido único, caracterizado por el empleo de múltiples «capas de voz», sintetizadas a partir de la propia, melodías folk, fondos de sintetizador y reverberaciones etéreas. Ha cantado en diez idiomas diferentes a lo largo de su carrera, interpretando las letras de la letrista Roma Ryan, principalmente en su idioma natal, gaélico irlandés y en inglés, además de latín, español, japonés, francés, el idioma ficticio quenya y «loxian», una lengua construida por la misma Ryan, entre otros.",
                 "Mantuvo su éxito en los años 1990 y 2000: su álbum A Day Without Rain, de 2000, alcanzó la cifra de 16 millones de unidades vendidas; y fue nombrada la artista femenina con más ventas en 2001. Es la artista irlandesa en solitario de mayores ventas totales, así como, oficialmente, la segunda artista exportadora del país, tras la banda U2. Las ventas totales de sus álbumes han alcanzado en 2008 la suma de 70 millones de unidades.",
-                "Su trabajo ha merecido, entre otros muchos reconocimientos, la nominación a un Óscar, un Globo de Oro y un Grammy por su canción «May It Be», que compuso para la película El Señor de los Anillos: la Comunidad del Anillo (2001).",
+                "Su trabajo ha merecido, entre otros muchos reconocimientos, la nominación a un Óscar, un Globo de Oro y un Grammy por su canción «May It Be», que compuso para la película El Señor de los Anillos: la Comunidad del Anillo (2001)."
             ]
         },
         "urlmusic": "Enya/singerDetail.html",
-        "urlwiki": "https://es.wikipedia.org/wiki/Enya",
+        "urlwiki": "https://es.wikipedia.org/wiki/Enya"
     }
 ]

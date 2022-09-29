@@ -1,0 +1,24 @@
+POST http://localhost:3001/api/interpretes
+Content-Type: application/json
+
+{
+    "id": "5",
+    "tipo": "Grupo",
+    "nombre": "Mecano",
+    "imageng": "Mecano/images/MecanoFoto.jpg",
+    "estilo": "Pop",
+    "periodo": "1980-Presente",
+    "informacion": {
+      "Fotos": ["images/Concierto.jpg"],
+      "Origen": "España",
+      "Generos": ["Pop rock", "Pop"],
+      "Actividad": ["1980-2000" ],
+      "OficialWeb": "www.mecano.com",
+      "Miembros": ["Nacho Cano", "Ana Torroja", "Jose lUis Cano"],
+      "Descripcion": [
+        "Tocan mu bien"
+      ]
+    },
+    "urlwiki": "https://es.wikipedia.org/wiki/Mecabo"
+
+}
