@@ -7,11 +7,11 @@
         "estilo": "Rock Sinfónico",
         "periodo": "1965-2005",
         "informacion": {
-            "Foto": ["images/Concierto.jpg"],
+            "Fotos": ["PinkFloyd/images/Concierto.jpg"],
             "Origen": "Londres, Inglaterra, Reino Unido",
             "Generos": ["Rock progresivo", "Art rock", "Música elcectrónica", "Soft rock", "Rock sinfónico"],
             "Actividad": ["1965-1995", "2005", "2014-2015"],
-            "OficioalWeb": "www.pinkfloyd.com",
+            "OficialWeb": "www.pinkfloyd.com",
             "Miembros": [
                 "Roger Waters - bajo, voz líder, guitarra, teclados (1965-1985, 2005)", 
                 "Rick Wright - teclados, voz (1965-2008)",
@@ -37,7 +37,7 @@
         "estilo": "Rock Sinfónico",
         "periodo": "1967-2000",
         "informacion":{
-            "Foto": ["images/Concierto.jpg"],
+            "Fotos": ["Genesis/images/Concierto.jpg"],
             "Origen": "Godalming, Surrey, Reino Unido",
             "Generos": ["Rock progresivo", "Art rock", "Música elcectrónica", "Pop rock", "Soft rock", "Rock sinfónico"],
             "Actividad": ["1967-2000", "2006-2007 (gira)", "2014 (reunión)", "2020-presente"],
@@ -65,7 +65,7 @@
         "periodo": "1969-2005",
         "informacion":{
             "Fichero": "SupertrampPlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Fotos": ["Supertramp/images/Concierto.jpg"],
             "Origen": "Londres, Reino Unido",
             "Generos": ["Rock progresivo", "Pop progresivo", "Soft rock"],
             "Actividad": ["1968-1988", "1996-2002", "2010-2012", "2015-presente"],
@@ -102,7 +102,7 @@
         "periodo": "1970-Presente",
         "informacion":{
             "Fichero": "ElectricPlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Fotos": ["Ellaor/images/Concierto.jpg"],
             "Origen": "Birmingham, Inglaterra, Reino Unido",
             "Generos": ["Pop rock", "Rock sinfónico", "Pop progresivo", "Art rock", "Rock progresivo", "Rock psicodélico"],
             "Actividad": ["1970-1986", "2000-2001", "2012-presente"],
@@ -128,7 +128,7 @@
         "periodo": "1975-1990",
         "informacion": {
             "Fichero": "AlanPlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Fotos": ["Alanparson/images/Concierto.jpg"],
             "Origen": "Londres, Inglaterra, Reino Unido",
             "Generos": ["Rock progresivo", "Art rock", "Música elcectrónica", "Soft rock"],
             "Actividad": ["1975-1990"],
@@ -152,7 +152,7 @@
         "periodo": "1967-Presente",
         "informacion":{
             "Fichero": "JeanPlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Fotos": ["JeanMichel/images/Concierto.jpg"],
             "Origen": "Lyon, Francia Lyon (Francia)",
             "Generos": ["Música Electrónica", "Synth pop", "New Age", "Experimental", "Ambient", "Rock electrónico"],
             "Actividad": ["1967-presente"],
@@ -176,7 +176,7 @@
         "periodo": "1967-Presente",
         "informacion":{
             "Fichero": "MikePlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Fotos": ["MikeOldfield/images/Concierto.jpg"],
             "Origen": "Reading, Reino Unido",
             "Generos": ["Rock progresivo", "Pop", "Ambient", "música clásica"],
             "Actividad": ["1967-Presente"],
@@ -203,7 +203,7 @@
         "periodo": "1978-1996",
         "informacion":{
             "Fichero": "OrchestraPlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Fotos": ["Omd/images/Concierto.jpg"],
             "Origen": "Meols, Wirral, Merseyside, Reino Unido",
             "Generos": ["Synth pop", "New wave", "Post-punk", "Música electrónica"],
             "Actividad": ["1978-1996", "2009-presente"],
@@ -229,7 +229,7 @@
         "periodo": "1965-Presente",
         "informacion":{
             "Fichero": "MarkPlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Fotos": ["MarkKnofler/images/Concierto.jpg"],
             "Origen": "Glasgow, Escocia, Reino Unido",
             "Generos": ["Rock", "Roots rock", "Celtic rock", "Country rock", "Blues rock"],
             "Actividad": ["1965-presente"],
@@ -254,7 +254,7 @@
         "periodo": "1963-Presente",
         "informacion":{
             "Fichero": "GilmourPlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Fotos": ["DavidGilmor/images/Concierto.jpg"],
             "Origen": "Cambridge, Inglaterra",
             "Generos": ["Rock progresivo", "art rock", "blues rock", "ambient", "post-rock"],
             "Actividad": ["1963-presente"],
@@ -279,7 +279,7 @@
         "periodo": "1968-2022",
         "informacion":{
             "Fichero": "PhillCollinsPlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Fotos": ["PhillCollins/images/Concierto.jpg"],
             "Origen": "Chiswick, Middlesex, Inglaterra,",
             "Generos": ["Rock sinfónico", "pop", "rock pop", "rock progresivo","soft rock","jazz fusión","big band"],
             "Actividad": ["1968-2011","2015-2022"],
@@ -306,7 +306,7 @@
         "periodo": "1992-Actualidad",
         "informacion":{
             "Fichero": "AdiemusPlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Fotos": ["Adiemus/images/Concierto.jpg"],
             "Origen": "Reino Unido",
             "Generos": ["New Age"],
             "Actividad": ["1992-Actualidad"],
@@ -332,7 +332,7 @@
         "periodo": "1979-Actualidad",
         "informacion":{
             "Fichero": "AndreasPlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Fotos": ["Andreasvollenweider/images/Concierto.jpg"],
             "Origen": "Reino Unido",
             "Generos": ["New Age", "World Music", "Jazz", "clásica"],
             "Actividad": ["1979-Actualidad"],
@@ -356,7 +356,7 @@
         "periodo": "1979-Actualidad",
         "informacion":{
             "Fichero": "AndreasPlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Fotos": ["CafeDelMar/images/Concierto.jpg"],
             "Origen": "Reino Unido",
             "Generos": ["New Age", "ambiente", "Jazz", "clásica"],
             "Actividad": ["1979-Actualidad"],
@@ -381,7 +381,7 @@
         "periodo": "1996-Actualidad",
         "informacion":{
             "Fichero": "CarlosNuPlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Fotos": ["CarlosNu/images/Concierto.jpg"],
             "Origen": "Vigo, Pontevedra, España",
             "Generos": ["New Age", "Musica Celta", "Folk"],
             "Actividad": ["1996-Actualidad"],
@@ -405,7 +405,7 @@
         "periodo": "1987-Actualidad",
         "informacion":{
             "Fichero": "CirqueDuSoleilPlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Fotos": ["CirqueDuSoleil/images/Concierto.jpg"],
             "Origen": "Canada",
             "Generos": ["New Age", "Clasica", "Ambiente"],
             "Actividad": ["1987-Actualidad"],
@@ -431,7 +431,7 @@
         "periodo": "1987-Actualidad",
         "informacion":{
             "Fichero": "EnyaPlay.html",
-            "Fotos": ["images/Concierto.jpg"],
+            "Fotos": ["Enya/images/Concierto.jpg"],
             "Origen": "Gweedore, Donegal, Irlanda",
             "Generos": ["New Age", "Celta", "Pop"],
             "Actividad": ["1976-Actualidad"],

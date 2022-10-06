@@ -1,7 +1,9 @@
 const express = require('express')
 const app = express()
-const interpretes = require('./data/interpretes.json');
+//const interpretes = require('./data/interpretes.json');
 const cors = require('cors')
+const ArtistData = require('./functions/serviceInterpretes.js');
+const SongstData = require('./functions/serviceCanciones.js');
 
 app.use(cors())
 
@@ -17,68 +19,28 @@ const requestLogger = (request, response, next) => {
 
 app.use(requestLogger);
 
-app.post('/api/interpretes', (request, response) => {
-  const body = request.body
-
-  if (!body.nombre) {
-    return response.status(400).json({ 
-      error: 'content missing' 
-    })
-  }
-
-  const interprete = {
-    id: "5",
-    tipo: "Grupo",
-    nombre: "Mecano",
-    imageng: "Mecano/images/MecanoFoto.jpg",
-    estilo: "Pop",
-    periodo: "1980-Presente",
-    informacion: {
-      Fotos: ["images/Concierto.jpg"],
-      Origen: "España",
-      Generos: ["Pop rock", "Pop"],
-      Actividad: ["1980-2000" ],
-      OficialWeb: "www.mecano.com",
-      Miembros: ["Nacho Cano", "Ana Torroja", "Jose lUis Cano"],
-      Descripcion: [
-        "Tocan mu bien"
-      ]
-    },
-    urlwiki: "https://es.wikipedia.org/wiki/Mecano"
-  }
-
-  interpretes = interpretes.concat(interprete)
-
-  response.json(interprete)
-})
-
-
 app.get('/', (request, response) => {
-  response.send(`<h1>Hola Mundo!</h1>`)
-})
+  response.send(`<h1>Servocio Http Fichero Interpretes.json</h1>`)
+})      
 
-app.get('/api/interpretes', (request, response) => {
-  response.json(interpretes)
-})
+//=============================================
+//==  funciones ficheor interprete
+//============================================
 
-app.get('/api/interpretes/:id', (request, response) => {
-  const id = request.params.id
-  const interprete = interpretes.find(interprete => interprete.id === id)
-  //
-  if (undefined !== interprete) {
-    response.json(interprete)
-  } else {
-    response.status(404).end()
-  }
-})
+ArtistData.allArtist(app);
+ArtistData.newArtist(app);
+ArtistData.viewArtist(app);
+ArtistData.delArtist(app);
+ArtistData.imgArtist(app);
 
+//=============================================
+//==  funciones ficheor canciones
+//============================================
 
-app.delete('/api/interpretes/:id', (request, response) => {
-  const id = (request.params.id)
-  interpretes = interpretes.filter(interprete => interprete.id !== id)
-
-  response.status(204).end()
-})
+SongstData.allSongs(app);
+SongstData.allSongsArtist(app);
+SongstData.albumArtist(app);
+//
 
 const unknownEndpoint = (request, response) => {
   response.status(404).send({ error: 'unknown endpoint' })
